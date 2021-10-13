@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Running
+   1. Especially **Trail** running
+2. Programming
+3. Learning
